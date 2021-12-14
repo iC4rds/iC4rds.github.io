@@ -1,1 +1,1 @@
-<img src="https://github.com/iC4rds/iC4rds.github.io/blob/main/docs/assets/profile.png" width="80" />
+<img src="/docs/assets/profile.png" width="80" />
