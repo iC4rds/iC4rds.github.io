@@ -8,4 +8,4 @@
 
 + [github.com](https://github.com/iC4rds)
 
-+ [My Linux Rice](https://ic4rds.github.io/Linux-Rice/)
++ [dotfiles](https://ic4rds.github.io/dotfiles/)
